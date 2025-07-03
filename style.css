@@ -1,0 +1,30 @@
+.div-text {
+  position: absolute;
+  /* background-color: aqua; */
+  color: rgba(255, 255, 255, 1);
+  padding-left: 90px;
+  padding-top: 230px;
+  /* Десктопні додатки */
+
+  font-family: "Roboto";
+  font-style: normal;
+  font-weight: 700;
+  font-size: 14px;
+  line-height: 16px;
+  text-align: center;
+  letter-spacing: 0.03em;
+  text-transform: uppercase;
+
+  color: #ffffff;
+}
+
+.li {
+  position: relative;
+  padding-left: 10px;
+}
+.ul {
+  display: flex;
+}
+/* .p {
+  background-color: rgba(47, 48, 58, 0.8);
+} */
